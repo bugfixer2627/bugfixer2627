@@ -1,186 +1,103 @@
 # 你好，我是 Aditya Agrawal 👋
 
-[🇬🇧 English Version](./README.md)
+**技术开发 × 产品思维 × 商业运营**  
+*连接软件开发、产品思维与商业落地。*
 
-我是 **宁波诺丁汉大学（University of Nottingham Ningbo China）** 的 **人工智能方向计算机科学本科生（BSc Computer Science with Artificial Intelligence）**。
+[🇬🇧 English Version](./README.md) · [领英](https://www.linkedin.com/in/aditya-agrawal-316753400/) · [邮箱](mailto:bugfixerog@outlook.com)
 
-我喜欢构建能够解决现实问题的系统，从面向学生的 Web 应用，到自动化工作流和运营工具。我最初通过软件开发进入技术领域，但随着项目和实习经历的积累，我逐渐发现自己对 **运营、自动化、产品落地以及将想法转化为实际成果** 更感兴趣。
+## 👨‍💻 个人简介
 
-目前，我正在通过黑客松、课程项目以及运营实习，探索 **技术、运营和产品开发** 的交叉领域。
+我目前就读于**宁波诺丁汉大学（University of Nottingham Ningbo China）**，攻读**计算机科学与人工智能理学学士学位**。我热衷于开发能够解决实际问题的技术产品。
 
-🔗 **LinkedIn：**  
-https://www.linkedin.com/in/aditya-agrawal-316753400/
+我的实践涵盖软件开发、AI 应用、工作流自动化和产品开发。除了编写代码，我也重视理解用户需求、优化运营流程，并将想法转化为真正可用的解决方案。
 
-✉️ **邮箱：**  
-bugfixerog@outlook.com
+通过黑客松、商业项目和工作实践，我逐渐形成了自己的方向：**将技术能力、产品策略与商业执行结合起来**。
 
----
+## 🚀 代表项目
 
-# 🚀 目前正在做什么
+### 🏠 DormVibe — AI 智能房间设计与个性化平台
 
-## Operations Intern（运营实习生）
+一个面向学生的 AI 房间设计平台，通过个性化设计建议、交互式 3D 可视化，以及家具与装饰品推荐，帮助用户打造符合自身喜好的居住空间。
 
-参与工作包括：
+- **我的贡献：** 前端开发、UI/UX 设计、用户流程设计、AI 功能集成、房间定制功能、调试与测试。
+- **技术栈：** React、TypeScript、Vite、Tailwind CSS、Supabase、Express.js、Zustand、Framer Motion、React Three Fiber。
+- **项目荣誉：** 2026 年宁波诺丁汉大学 30 小时 AI 黑客松总评二等奖及最具商业价值奖。
+- **项目链接：** [待补充代码仓库或演示地址]
 
-- 网站部署与基础设施管理
-- Railway 部署
-- n8n 工作流自动化
-- Telegram Bot 开发
-- 运营流程优化
-- 市场调研与业务分析
+### 🌐 Rikatex Website — B2B 企业官网
 
-## 正在学习
+**状态：开发中**
 
-- JavaScript
-- React 生态系统
-- Python 自动化开发
-- AI 辅助开发流程
-- 产品与运营管理
+为一家国际地毯业务企业开发专业的 B2B 官网，用于展示产品系列、介绍企业业务能力，并支持潜在客户咨询。
 
----
+- **我的贡献：** 前端开发、UI/UX 设计、响应式布局、利益相关方反馈整理、自动化测试及技术文档编写。
+- **重点领域：** 网站开发、产品落地、业务需求分析、软件测试。
+- **项目链接：** [公开后补充]
 
-# ⭐ 代表项目
+### 🎓 YouBelong（有伴）— 校园信息与社区平台
 
-## 🏠 DormVibe
+**状态：MVP 开发中**
 
-### 🥈 UNNC Hackathon 2026 亚军
-### 💡 Most Valuable Business Idea
+一个面向大学生的信息与社区平台，旨在整合校园资源、学生组织、活动和社区资讯，让学生更方便地获取所需信息、融入校园生活。
 
-一个基于 AI 的学生住宿推荐平台，帮助学生根据生活习惯、性格和偏好寻找合适的住宿、室友以及社区。
+- **我的贡献：** 产品规划、功能优先级制定、UI/UX 设计、用户旅程设计、学生组织沟通及商业模式探索。
+- **重点领域：** 产品策略、校园科技、用户体验、创业实践。
+- **项目链接：** [公开后补充]
 
-### 我的贡献
+### 🍜 FoodieVibe — 跨文化美食探索与食谱分享平台
 
-- UI/UX 设计
-- 用户流程设计
-- 前端开发
-- React + TypeScript 开发
-- 用户测试
-- GitHub 仓库管理
+一个通过各国美食、文化故事与食谱分享连接用户的应用，让不同文化背景的人能够更轻松地探索和交流饮食文化。
 
-### 技术栈
+- **我的贡献：** 前端开发、UI/UX 设计、移动端集成、调试与用户测试。
+- **技术栈：** React、TypeScript、Vite、Tailwind CSS、Capacitor。
+- **项目荣誉：** 宁波抖音黑客松最受欢迎奖。
+- **项目链接：** [待补充代码仓库或演示地址]
 
-`React` · `TypeScript` · `Vite` · `Tailwind CSS` · `Supabase` · `Express.js` · `Zustand` · `Framer Motion`
+## 💼 实践与工作经历
 
-📂 项目仓库 → DormVibe
+### 运营实习生 — 宁波诺丁汉科技有限公司
 
----
+参与技术运营、工作流自动化和商业研究，包括使用 Railway 进行网站部署与基础设施管理、开发 n8n 自动化流程和 Telegram 机器人，以及流程优化、技术问题排查和市场调研。
 
-## 🍜 FoodieVibe
+### 独立产品与网站开发
 
-### 🌟 TikTok Ningbo Hackathon 2026 最受欢迎项目奖（游园之星）
+参与个人、学术及商业项目的数字产品开发，涵盖前端开发、应用原型制作、UI/UX 设计、将业务需求转化为产品功能、测试、文档编写及迭代优化。
 
-一个结合美食探索、文化故事分享以及社区互动的平台，通过食物连接来自不同文化背景的人们。
+### 销售、增长与商业运营
 
-### 我的贡献
+曾参与客户开发、高客单价销售、增长运营及团队协调，积累了客户沟通、线索筛选、业务拓展、运营流程优化与跨团队协作经验。
 
-- 前端开发
-- UI/UX 设计
-- 用户流程设计
-- 移动端部署
-- 团队集成与调试
-- 用户测试
+## 🛠 技术与工具
 
-### 技术栈
+| 类别 | 技术与能力 |
+| --- | --- |
+| **编程语言** | Python、JavaScript、TypeScript、HTML、CSS、SQL |
+| **框架与开发技术** | React、Next.js、Vite、Tailwind CSS、Express.js、Supabase |
+| **工具与自动化** | Git、GitHub、Railway、n8n、Telegram Bots、Codex |
+| **产品与设计** | Figma、UI/UX 设计、用户流程设计、用户测试、产品规划 |
 
-`React` · `TypeScript` · `Vite` · `Tailwind CSS` · `Capacitor`
+## 🏆 奖项与荣誉
 
-📂 项目仓库 → FoodieVibe
+- **2026 年宁波诺丁汉大学 30 小时 AI 黑客松：** 总评二等奖及最具商业价值奖（DormVibe）。
+- **宁波抖音黑客松：** 最受欢迎奖（FoodieVibe）。
+- **宁波诺丁汉大学 IT 服务部门（2025）：** 优秀实习生荣誉。
 
----
+## 🧠 学术与研究
 
-## 🧠 联邦学习图像分类系统
+### 联邦学习图像分类系统
 
-一个基于联邦学习（Federated Learning）的分布式机器学习平台，用于探索隐私保护场景下的图像分类任务。
+大学软件工程小组项目，使用 **Python 和 Flower 框架**探索通过联邦学习实现隐私保护型图像分类。
 
-该项目是宁波诺丁汉大学软件工程课程团队项目的一部分。
+- **我的贡献：** 前端工作流程规划、Figma 原型设计、技术文档、GitHub 仓库协作及敏捷项目规划。
+- **技术栈：** Python、Flower、Git、GitHub、Figma。
+- **项目链接：** [待补充代码仓库地址]
 
-### 我的贡献
+## 🌱 个人兴趣
 
-- 前端流程设计
-- Figma 原型设计
-- 技术文档管理
-- GitHub 仓库协调
-- Agile 项目规划
-- 技术文档编写
+在技术之外，我喜欢游戏、探索不同文化，以及了解不同行业的商业运作方式。我也对设计、创业和通过创意改善日常体验充满兴趣。
 
-### 技术栈
-
-`Python` · `Flower Framework` · `Git` · `GitHub` · `Figma`
-
-📂 项目仓库 → Federated Learning System
+在多元文化环境中成长的经历，让我乐于与不同背景的人交流，了解不同的思考方式和观点。
 
 ---
 
-# 🛠 技能工具箱
-
-## 开发
-
-- HTML
-- CSS
-- JavaScript
-- Python
-- SQL
-- Git
-- GitHub
-
-## 前端
-
-- React
-- TypeScript
-- Tailwind CSS
-- Vite
-
-## 运营与自动化
-
-- Railway
-- n8n
-- Telegram Bot
-- Workflow Automation
-- 流程文档编写
-
-## 产品与设计
-
-- Figma
-- 用户流程设计
-- 用户测试
-- 产品验证
-- 市场调研
-
----
-
-# 🌱 感兴趣的方向
-
-我对以下领域特别感兴趣：
-
-- 运营优化（Operations）
-- 流程改进（Process Improvement）
-- 工作流自动化（Workflow Automation）
-- 产品运营（Product Operations）
-- 技术项目协调（Technical Project Coordination）
-- Web 应用开发
-- 创业与创新项目
-- 以用户为中心的产品设计
-
-相比于单纯编写代码，我更喜欢帮助团队将想法真正落地——组织项目、优化流程，并推动事情顺利执行。
-
----
-
-# 📈 课堂之外
-
-除了学业之外，我喜欢参加黑客松、构建项目、学习新技术，并探索软件如何提升组织和团队的运营效率。
-
-我相信技术真正的价值，在于解决现实问题，并为人们创造更好的体验。
-
----
-
-# 🤝 联系我
-
-如果你对技术、运营、产品、创业或项目开发感兴趣，欢迎与我交流。
-
-📧 **bugfixerog@outlook.com**
-
-🔗 **LinkedIn：**  
-https://www.linkedin.com/in/aditya-agrawal-316753400/
-
-💻 **GitHub：**  
-https://github.com/bugfixer2627
+**欢迎交流：** [领英](https://www.linkedin.com/in/aditya-agrawal-316753400/) · [邮箱](mailto:bugfixerog@outlook.com) · [GitHub](https://github.com/bugfixer2627)
