@@ -1,183 +1,103 @@
 # Hi, I'm Aditya Agrawal 👋
 
-[🇨🇳 中文版本](./README.zh-CN.md)
+**Technical Builder × Product Thinker × Business Operator**  
+*Connecting software, product thinking, and business execution.*
 
-I'm a **BSc Computer Science with Artificial Intelligence** student at the **University of Nottingham Ningbo China**.
+[🇨🇳 中文版本](./README.zh-CN.md) · [LinkedIn](https://www.linkedin.com/in/aditya-agrawal-316753400/) · [Email](mailto:bugfixerog@outlook.com)
 
-I enjoy building practical systems that solve real-world problems — from student-focused web applications to workflow automation and operational tools. While I started my journey through software development, I've found myself increasingly interested in **operations, automation, product execution, and turning ideas into working solutions**.
+## 👨‍💻 Introduction
 
-Currently, I'm exploring the intersection of **technology, operations, and product development** through hackathons, academic projects, and my Operations Internship.
+I'm a **BSc Computer Science with Artificial Intelligence** student at the **University of Nottingham Ningbo China**, interested in building practical technology that solves real-world problems.
 
-🔗 **LinkedIn:** https://www.linkedin.com/in/aditya-agrawal-316753400/
+My work spans software development, AI-powered applications, workflow automation, and product development. Beyond writing code, I enjoy understanding user needs, improving operational processes, and turning ideas into functional solutions.
 
-✉️ **Email:** bugfixerog@outlook.com
+Through hackathons, commercial projects, and professional experience, I've developed a strong interest in connecting **technology, product strategy, and business execution**.
 
----
+## 🚀 Featured Projects
 
-# 🚀 Currently
+### 🏠 DormVibe — AI-Powered Room Design & Personalization
 
-## Operations Intern
+An AI-powered platform helping students personalize their living spaces through design recommendations, interactive 3D visualization, and curated furniture and decoration suggestions.
 
-Working on:
+- **My contributions:** Frontend development, UI/UX design, user flows, AI feature integration, room customization, debugging, and testing.
+- **Tech:** React, TypeScript, Vite, Tailwind CSS, Supabase, Express.js, Zustand, Framer Motion, React Three Fiber.
+- **Recognition:** Second Prize Overall & Most Business Value Award — UNNC 30H AI Hackathon 2026.
+- **Project link:** [Add repository or demo URL]
 
-- Website deployment and infrastructure management
-- Railway deployments
-- n8n workflow automation
-- Telegram bot development
-- Operational process improvement
-- Market research and business analysis
+### 🌐 Rikatex Website — Commercial B2B Website
 
-## Learning
+**Status: In development**
 
-- JavaScript
-- React Ecosystem
-- Python for Automation
-- AI-Assisted Development Workflows
-- Product & Operations Management
+Developing a professional website for an international carpet business to showcase products, communicate business capabilities, and support customer enquiries.
 
----
+- **My contributions:** Frontend development, UI/UX design, responsive layouts, stakeholder feedback, automated testing, and technical documentation.
+- **Focus:** Web development, product execution, business requirements, testing.
+- **Project link:** [Add public link when available]
 
-# ⭐ Featured Projects
+### 🎓 YouBelong (有伴) — Student Information & Community Platform
 
-## 🏠 DormVibe
+**Status: MVP in development**
 
-### 🥈 UNNC Hackathon 2026 — 2nd Place
-### 💡 Most Valuable Business Idea
+A student-focused platform designed to simplify campus life by bringing university resources, student organizations, events, and community information into one accessible experience.
 
-An AI-powered student accommodation platform that helps students discover housing, compatible roommates, and communities based on lifestyle preferences.
+- **My contributions:** Product planning, feature prioritization, UI/UX design, user journeys, stakeholder coordination, and business model exploration.
+- **Focus:** Product strategy, student technology, UI/UX, entrepreneurship.
+- **Project link:** [Add public link when available]
 
-### What I Worked On
+### 🍜 FoodieVibe — Cross-Cultural Food Discovery & Recipes
 
-- UI/UX Design
-- User Flow Design
-- Frontend Development
-- React + TypeScript Development
-- User Testing
-- GitHub Repository Management
+A food discovery and recipe-sharing application connecting people through international cuisines, cultural storytelling, and shared culinary experiences.
 
-### Built With
+- **My contributions:** Frontend development, UI/UX design, mobile integration, debugging, and user testing.
+- **Tech:** React, TypeScript, Vite, Tailwind CSS, Capacitor.
+- **Recognition:** Most Popular Award — Ningbo Douyin Hackathon.
+- **Project link:** [Add repository or demo URL]
 
-`React` · `TypeScript` · `Vite` · `Tailwind CSS` · `Supabase` · `Express.js` · `Zustand` · `Framer Motion`
+## 💼 Experience
 
-📂 Repository → DormVibe
+### Operations Intern — Ningbo Nottingham Technology Co., Ltd.
 
----
+Supported technical operations, workflow automation, and business research through website deployment and infrastructure management using Railway; n8n workflows and Telegram bots; and process improvement, troubleshooting, and market research.
 
-## 🍜 FoodieVibe
+### Independent Product & Web Development
 
-### 🌟 TikTok Ningbo Hackathon 2026 — Most Popular Project Award
+Building practical digital products across personal, academic, and commercial projects, including frontend development, prototyping, UI/UX design, translating stakeholder requirements into features, testing, documentation, and iterative development.
 
-A community-driven platform that combines food discovery, cultural storytelling, and recipe sharing to connect people through global cuisines.
+### Sales, Growth & Business Operations
 
-### What I Worked On
+Previous experience in client acquisition, high-ticket sales, growth operations, and agency coordination, including client communication, lead qualification, business development, operational workflows, and team coordination.
 
-- Frontend Development
-- UI/UX Design
-- User Flow Design
-- Mobile Deployment
-- Team Integration & Debugging
-- User Testing
+## 🛠 Technical Skills
 
-### Built With
+| Category | Technologies & Skills |
+| --- | --- |
+| **Languages** | Python, JavaScript, TypeScript, HTML, CSS, SQL |
+| **Frameworks & Development** | React, Next.js, Vite, Tailwind CSS, Express.js, Supabase |
+| **Tools & Automation** | Git, GitHub, Railway, n8n, Telegram Bots, Codex |
+| **Product & Design** | Figma, UI/UX Design, User Flows, User Testing, Product Planning |
 
-`React` · `TypeScript` · `Vite` · `Tailwind CSS` · `Capacitor`
+## 🏆 Awards & Achievements
 
-📂 Repository → FoodieVibe
+- **UNNC 30H AI Hackathon 2026:** Second Prize Overall & Most Business Value Award (DormVibe).
+- **Ningbo Douyin Hackathon:** Most Popular Award (FoodieVibe).
+- **UNNC IT Service Department, 2025:** Excellent Intern Recognition.
 
----
+## 🧠 Academic & Research
 
-## 🧠 Federated Learning Image Classification System
+### Federated Learning Image Classification System
 
-A distributed machine learning platform exploring privacy-preserving image classification through Federated Learning.
+A university software engineering group project exploring privacy-preserving image classification using **Python and the Flower framework**.
 
-Developed as part of a Software Engineering Group Project at UNNC.
+- **My contributions:** Frontend workflow planning, Figma prototyping, technical documentation, GitHub repository coordination, and agile project planning.
+- **Tech:** Python, Flower, Git, GitHub, Figma.
+- **Project link:** [Add repository URL]
 
-### What I Worked On
+## 🌱 Personal Interests
 
-- Frontend Workflow Design
-- Figma Mockups
-- Documentation Management
-- GitHub Repository Coordination
-- Agile Project Planning
-- Technical Documentation
+Outside of technology, I enjoy gaming, exploring different cultures, and learning how businesses operate across industries. I'm also interested in design, entrepreneurship, and finding creative ways to improve everyday experiences.
 
-### Built With
-
-`Python` · `Flower Framework` · `Git` · `GitHub` · `Figma`
-
-📂 Repository → Federated Learning System
+Having grown up in a multicultural environment, I enjoy connecting with people from different backgrounds and perspectives.
 
 ---
 
-# 🛠 Toolbox
-
-## Development
-
-- HTML
-- CSS
-- JavaScript
-- Python
-- SQL
-- Git
-- GitHub
-
-## Frontend
-
-- React
-- TypeScript
-- Tailwind CSS
-- Vite
-
-## Operations & Automation
-
-- Railway
-- n8n
-- Telegram Bots
-- Workflow Automation
-- Process Documentation
-
-## Product & Design
-
-- Figma
-- User Flow Design
-- User Testing
-- Product Validation
-- Market Research
-
----
-
-# 🌱 What I'm Interested In
-
-I enjoy working on:
-
-- Operations & Process Improvement
-- Workflow Automation
-- Product Operations
-- Technical Project Coordination
-- Web Applications
-- Startup Projects
-- Human-Centered Product Design
-
-I am especially interested in the people who turn ideas into reality — organizing projects, improving systems, and helping teams execute effectively.
-
----
-
-# 📈 Beyond the Classroom
-
-Outside academics, I enjoy participating in hackathons, building projects, learning new technologies, and exploring how software can improve operational efficiency.
-
-I believe technology becomes valuable when it solves real problems and creates better experiences for people.
-
----
-
-# 🤝 Let's Connect
-
-I'm always happy to connect with students, builders, founders, and professionals interested in technology, operations, startups, and product development.
-
-📧 **bugfixerog@outlook.com**
-
-🔗 **LinkedIn:**  
-https://www.linkedin.com/in/aditya-agrawal-316753400/
-
-💻 **GitHub:**  
-https://github.com/bugfixer2627
+**Let's connect:** [LinkedIn](https://www.linkedin.com/in/aditya-agrawal-316753400/) · [Email](mailto:bugfixerog@outlook.com) · [GitHub](https://github.com/bugfixer2627)
